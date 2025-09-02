@@ -8,7 +8,6 @@ Branches are like separate workspaces in your project. They let you **try new th
 - You can fix mistakes or add more changes anytime.
 - Your work only goes to the main project after you say it's ready (by merging).
   
-![Branching and Pull Request Workflow][attached_image:2]
 
 ## What are Commits?
 
@@ -32,7 +31,6 @@ A commit is like a **snapshot of your changes** to one or more files.
 
 This helps keep track of what you've done.
 
-![Commit History View][attached_image:5]
 
 ## What are Pull Requests?
 
@@ -43,7 +41,6 @@ Pull requests ask others to check your changes before adding them to the main pr
 - Once approved, your changes merge into the main branch.
 - You can also open a **Draft Pull Request** if your work isn’t finished yet.
 
-![Pull Request with Discussion and Verification][attached_image:3]
 
 ## How GitHub Flow Works (Simple Steps)
 
@@ -73,7 +70,6 @@ Git flow is a way to organize bigger projects with different branches for featur
 - Also merge release back into **develop** to stay updated.
 - Fix production bugs with **hotfix** branches branched from **master**, merged back into **master** and **develop** after fix.
 
-![Git Flow Example Workflow][attached_image:1]
 
 ### When to Use Git Flow
 
