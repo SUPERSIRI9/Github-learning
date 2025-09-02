@@ -18,7 +18,7 @@ A commit is like a **snapshot of your changes** to one or more files.
 - It tracks what you changed so people can see the history.
 - You can create a commit with this command:
 
-###git commit -m “Describe your change here”
+### git commit -m “Describe your change here”
 
 
 ### File Status in Git
