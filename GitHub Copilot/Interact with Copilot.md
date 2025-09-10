@@ -65,4 +65,4 @@ This guide shows how to maximize your interaction with GitHub Copilot in your de
 
 ---
 
-Copilot empowers you to code faster, smarter, and with greater confidence!!
+Copilot empowers you to code faster, smarter, and with greater confidence!
